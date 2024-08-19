@@ -1,7 +1,7 @@
 <H3> Name: H.Berjin Shabeck </H3>
-<H3>Register No: 212222240018</H3>
+<H3>Register No: 212222243003</H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 26.02.2024 </H3>
+<H3>DATE: 19.08.2024 </H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
