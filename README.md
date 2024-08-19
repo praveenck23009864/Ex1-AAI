@@ -1,4 +1,4 @@
-<H3> Name: H.Berjin Shabeck </H3>
+<H3> Name: c.k.praveen </H3>
 <H3>Register No: 212222243003</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 19.08.2024 </H3>
