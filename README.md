@@ -1,5 +1,5 @@
-<H3> Name </H3>Archana k
-<H3>Register No.</H3>212222240011
+<H3> Name </H3>PRAVEEN CK k
+<H3>Register No.</H3>212222243003
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
